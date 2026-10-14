@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""文本Power 经典风 出片脚本：python3 make_video.py spec.json out_dir [music.m4a]"""
+"""经典风 出片脚本：python3 make_video.py spec.json out_dir [music.m4a]"""
 import os, sys, json, shutil, subprocess, tempfile, numpy as np
 from PIL import Image, ImageDraw, ImageFont
 W,H,FPS,BEAT=1080,1920,30,0.5

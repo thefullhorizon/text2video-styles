@@ -6,7 +6,7 @@
     {
       "name": "text2video-styles",
       "source": "./plugins/text2video-styles",
-      "description": "文案转视频风格库：极简苹果风（Apple Minimal）、文本Power 经典风……",
+      "description": "文案转视频风格库：极简苹果风（Apple Minimal）、经典风……",
       "version": "0.1.0"
     }
   ]

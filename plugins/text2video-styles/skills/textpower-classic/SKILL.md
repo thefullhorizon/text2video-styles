@@ -1,9 +1,9 @@
 ---
 name: textpower-classic
-description: 文本Power 经典风：用户说「用文本Power风/经典风把文案生成视频」时，生成暖棕背景、一屏一句、关键词彩色大字的 9:16 文字动效短视频 + 封面。
+description: 经典风：用户说「用文本Power风/经典风把文案生成视频」时，生成暖棕背景、一屏一句、关键词彩色大字的 9:16 文字动效短视频 + 封面。
 ---
 
-# 文本Power 经典风 · TextPower Classic
+# 经典风 · TextPower Classic
 
 ## 出片步骤
 

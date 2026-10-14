@@ -18,7 +18,7 @@ Claude 会自动拆句、渲染、配乐，交付一支 1080×1920 的 mp4。
 | 预览 | 风格 | 说法 | 特点 |
 |:---:|---|---|---|
 | <img src="docs/previews/apple-minimal.gif" width="180"> | **极简苹果风**<br>`apple-minimal` | 「用极简苹果风……」 | iOS 青蓝渐变背景；逐行 2.5D 玻璃框入场，停留时纯 2D 正对；暖色光带扫过；金色粒子散去后汇聚成完整文案（霞鹜文楷） |
-| <img src="docs/previews/textpower-classic.gif" width="180"> | **文本Power 经典风**<br>`textpower-classic` | 「用文本Power风……」 | 暖棕渐暗背景；一屏一句、按说话节奏断句；关键词彩色大字强调；附带封面 |
+| <img src="docs/previews/textpower-classic.gif" width="180"> | **经典风**<br>`textpower-classic` | 「用文本Power风……」 | 暖棕渐暗背景；一屏一句、按说话节奏断句；关键词彩色大字强调；附带封面 |
 
 更多风格持续加入中，欢迎贡献，见 [新增一个风格](docs/ADD_A_STYLE.md)。
 
@@ -44,7 +44,7 @@ cp -r text2video-styles/plugins/text2video-styles/skills/apple-minimal ~/.claude
 |---|---|---|
 | Python 3.9+ | 渲染脚本 | — |
 | Playwright + Chromium | 极简苹果风逐帧渲染 | `pip install playwright && playwright install chromium` |
-| Pillow、numpy | 文本Power 经典风 | `pip install pillow numpy` |
+| Pillow、numpy | 经典风 | `pip install pillow numpy` |
 | ffmpeg | 合成视频与配乐 | `brew install ffmpeg` |
 | 思源黑体 Noto Sans CJK | 正文字体 | `brew install --cask font-noto-sans-cjk` |
 | 霞鹜文楷 | 极简苹果风结尾字体 | 在 `apple-minimal/` 目录执行 `npm install` |
@@ -66,7 +66,7 @@ text2video-styles/
 │   ├── .claude-plugin/plugin.json
 │   └── skills/
 │       ├── apple-minimal/              # 极简苹果风
-│       └── textpower-classic/          # 文本Power 经典风
+│       └── textpower-classic/          # 经典风
 ├── examples/                           # 各风格的示例文案 spec.json
 ├── scripts/                            # 素材生成脚本
 └── docs/                               # 预览图、贡献指南
