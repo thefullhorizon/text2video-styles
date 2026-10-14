@@ -1,0 +1,13 @@
+{
+  "name": "text2video-styles",
+  "owner": { "name": "Taylor", "url": "https://x.com/Taylor_AIPM" },
+  "metadata": { "description": "把一段中文文案一键渲染成 9:16 短视频的风格库（Claude Skills）", "version": "0.1.0" },
+  "plugins": [
+    {
+      "name": "text2video-styles",
+      "source": "./plugins/text2video-styles",
+      "description": "文案转视频风格库：极简苹果风（Apple Minimal）、文本Power 经典风……",
+      "version": "0.1.0"
+    }
+  ]
+}

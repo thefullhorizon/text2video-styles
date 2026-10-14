@@ -1,0 +1,1 @@
+<div class="card" id="__ID__"><div class="face3 ft"></div><div class="face3 fb"></div><div class="face3 fl"></div><div class="face3 fr"></div><div class="back3"></div><div class="slab"><div class="txt">__TEXT__</div><div class="glint"></div><div class="wave"></div></div></div>

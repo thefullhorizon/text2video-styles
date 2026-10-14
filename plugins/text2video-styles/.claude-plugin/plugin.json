@@ -1,0 +1,8 @@
+{
+  "name": "text2video-styles",
+  "version": "0.1.0",
+  "description": "文案转视频风格库。对 Claude 说「用<风格名>把这段文案生成视频」即可出片。",
+  "author": { "name": "Taylor", "url": "https://x.com/Taylor_AIPM" },
+  "license": "MIT",
+  "keywords": ["text-to-video", "短视频", "文案", "skills"]
+}

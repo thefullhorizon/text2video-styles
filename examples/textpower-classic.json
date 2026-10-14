@@ -1,0 +1,4 @@
+{"name":"清醒的人不合群","screens":[
+ [{"t":"清醒的人","role":"lead"},{"t":"不合群","role":"accent"}],
+ [{"t":"干净的人","role":"lead"},{"t":"不扎堆","role":"accent"}],
+ [{"t":"独来独往的人","role":"lead"},{"t":"值得","role":"conn"},{"t":"深交","role":"accent"}]]}
